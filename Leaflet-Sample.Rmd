@@ -1,6 +1,6 @@
 ---
 title: "Crime in Sacremento, CA"
-author: "Yash Kumar Singh"
+author: "Antonio Cesar Vergani Junior"
 date: "August 31, 2017"
 output: 
   html_document: 
